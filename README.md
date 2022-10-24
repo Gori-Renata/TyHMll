@@ -40,7 +40,7 @@
         Entregas
     </h3>
     <ol>
-        <li><a href="https://github.com/Grupo-Tecnicas/Grupo-Delta/tree/main/Modulo%201:%20Producci%C3%B3n%20de%20Textos%20e%20Hipertextos">Módulo 1 - Marco Teórico </a></li>
+        <li><a href="https://github.com/Gori-Renata/TyHMll/tree/M%C3%B3dulo-1-Marco-Te%C3%B3rico">Módulo 1 - Marco Teórico </a></li>
         <li><a href="https://github.com/Grupo-Tecnicas/Grupo-Delta/tree/main/M%C3%B3dulo%202%20-%20%20Programaci%C3%B3n%20en%20R">Módulo 2 - Introducción al lenguaje de consultas estructuradas SQL </a></li>
         <li><a href="https://github.com/Grupo-Tecnicas/Grupo-Delta/tree/main/M%C3%B3dulo%203:%20Resiliencia%20y%20sostenibilidad%20en%20las%20infraestructuras%20cr%C3%ADticas">Módulo 3 - Sistemas de Información Geográficos </a></li>
         <li><a href=""></a>Módulo 4 - Escenarios de clima y energía en el mundo post-covid </li>
